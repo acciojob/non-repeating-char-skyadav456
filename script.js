@@ -26,7 +26,7 @@ const input = prompt("Enter a string:");
 const result = firstNonRepeatedChar(input);
 
 if (result === null) {
-    alert("No non-repeated character found.");
+    alert("null");
 } else {
     alert( result);
 }
