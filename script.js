@@ -28,5 +28,5 @@ const result = firstNonRepeatedChar(input);
 if (result === null) {
     alert("No non-repeated character found.");
 } else {
-    alert("First non-repeated character: " + result);
+    alert( result);
 }
